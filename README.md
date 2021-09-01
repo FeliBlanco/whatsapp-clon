@@ -8,6 +8,8 @@ Fecha de inicio: 1/9/2021.
 # Imagenes del proceso de creación del Front End
 ![alt text](http://imgfz.com/i/auEC0Ix.png)
 
+![alt text](http://imgfz.com/i/eN8TkjO.png)
+
 # Créditos
 * Felipe Blanco (Creador)
 * WhatsApp (íconos)
