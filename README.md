@@ -5,4 +5,4 @@ Fue creado totalmente desde 0 por Felipe Blanco.
 
 
 # Imagenes del proceso de creación del Front End
-http://imgfz.com/i/auEC0Ix.png
+![alt text](http://imgfz.com/i/auEC0Ix.png)
