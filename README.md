@@ -8,4 +8,5 @@ Fue creado totalmente desde 0 por Felipe Blanco.
 ![alt text](http://imgfz.com/i/auEC0Ix.png)
 
 # Créditos
-## asd
+* Felipe Blanco (Creador)
+* WhatsApp (íconos)
