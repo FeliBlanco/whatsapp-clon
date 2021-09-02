@@ -17,7 +17,7 @@ Dandole forma al chat, agregando los mensajes
 ![alt text](http://imgfz.com/i/3B7uD9E.png)
 
 Mejoré un poco mas el chat, la barra de scroll, el fondo (aunque sigue borroso por la calidad de imagen) y algunas cositas
-![alt text](http://imgfz.com/i/m4C5q7c.png)
+![alt text](http://imgfz.com/i/T41tvLH.png)
 
 # Créditos
 * Felipe Blanco (Creador)
